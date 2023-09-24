@@ -80,3 +80,10 @@ Using the nano command, index.txt file was opened and the content Hello World wh
 an alternative way to check the content of the file using the "cat" command was explored and it showed the content "Hello World" within index.txt
 
 ![Cat index txt](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/8feecca4-9f3c-4f40-8dee-4f35b01bb12d)
+
+d. A file index.txt was created. The content of the file was then passed to the command line using "grep" command
+Next, the command was also passed to another command as shown below
+
+![Content passing](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/c32fcb5c-6349-4904-982e-fbd970493af7)
+
+
