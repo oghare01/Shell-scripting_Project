@@ -47,3 +47,14 @@ Upon running the script, the current date was displayed as intended
 
 ![Date manipulated ](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/1f7b6c38-9886-4592-a84b-bebf44367116)
 
+4. INPUT AND OUTPUT
+
+a. A shellscript to enable user enter their names was written 
+
+![Username input ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/65e0ac6e-0424-47bf-8a96-adabbf1c88cd)
+
+The username shellscript was run and it worked well 
+
+![Username input working successfully ](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/75bc0ab5-8666-4652-a245-632176fa328d)
+
+b. Output to a terminal 
