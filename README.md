@@ -36,3 +36,7 @@ b. A for loop to print numbers from 1 to 5 as written
 This was then tested on the CLi and it worked as desired. This is shown in the following image 
 
 ![Working for ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/6a52e8e4-eadd-463e-9f66-099331b02de5)
+
+3. COMMAND SUBSTITUTION
+
+A command substitution for a shellscript that displays date was carried out 
