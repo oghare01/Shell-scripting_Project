@@ -39,4 +39,11 @@ This was then tested on the CLi and it worked as desired. This is shown in the f
 
 3. COMMAND SUBSTITUTION
 
-A command substitution for a shellscript that displays date was carried out 
+A command substitution for a shellscript that displays date was carried out. The script below was used
+
+![Date manipulation script](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/f0699772-2cda-4f5e-a4d0-cf823a70e7d7)
+
+Upon running the script, the current date was displayed as intended
+
+![Date manipulated ](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/1f7b6c38-9886-4592-a84b-bebf44367116)
+
