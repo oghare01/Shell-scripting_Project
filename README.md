@@ -77,3 +77,6 @@ Using the nano command, index.txt file was opened and the content Hello World wh
 
 ![Output to a file ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/a92990c6-6860-4237-b1dd-35cd60eef7c4)
 
+an alternative way to check the content of the file using the "cat" command was explored and it showed the content "Hello World" within index.txt
+
+![Cat index txt](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/8feecca4-9f3c-4f40-8dee-4f35b01bb12d)
