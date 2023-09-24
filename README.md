@@ -28,3 +28,11 @@ The code was written with the following "if" and "elif" statments to see if the 
 after the script was written, the code was run on the command line for the 3 possible scenarios and it worked just just fine as displayed in the image below 
 
 ![Working number checking ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/16175527-d874-4e28-8b53-b8abba84170a)
+
+b. A for loop to print numbers from 1 to 5 as written
+
+![For ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/d6c28add-34b5-4694-bf96-ff2e7216c4d7)
+
+This was then tested on the CLi and it worked as desired. This is shown in the following image 
+
+![Working for ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/6a52e8e4-eadd-463e-9f66-099331b02de5)
