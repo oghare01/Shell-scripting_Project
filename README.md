@@ -58,3 +58,14 @@ The username shellscript was run and it worked well
 ![Username input working successfully ](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/75bc0ab5-8666-4652-a245-632176fa328d)
 
 b. Output to a terminal 
+
+A shellscript that sends an output to the terminal was written 
+
+![Output ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/f505bf95-5ad3-4fe1-9e38-6f6c16247008)
+
+The output "Hello World" which was input on the shellscript was displayed on the terminal as expected 
+
+![Output working](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/6483860b-f07e-4c13-974e-67cee91734e9)
+
+c. Output to a file 
+
