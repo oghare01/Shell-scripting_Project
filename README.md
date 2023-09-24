@@ -68,4 +68,12 @@ The output "Hello World" which was input on the shellscript was displayed on the
 ![Output working](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/6483860b-f07e-4c13-974e-67cee91734e9)
 
 c. Output to a file 
+The echo command was used to send an input to a file. In this instance "Hello World" was sent an an input from the CLI to a file index.txt
+Once the command was issued, the file inex.txt was created as revealed in the photo below
+
+![Output to a file](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/672d7fc5-5e40-4dd0-bfda-ea91f98d7c8e)
+
+Using the nano command, index.txt file was opened and the content Hello World which was sent from the command line was inside the file as expected 
+
+![Output to a file ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/a92990c6-6860-4237-b1dd-35cd60eef7c4)
 
