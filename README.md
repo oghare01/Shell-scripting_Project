@@ -87,3 +87,15 @@ Next, the command was also passed to another command as shown below
 ![Content passing](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/c32fcb5c-6349-4904-982e-fbd970493af7)
 
 
+5. SHELLSCRIPT THAT PROMPTS USER INPUT AND GREETS THE USER
+
+A shellscript that prompts a user to put in his/her name was written using the echo and read commands 
+
+![User input and greeting output ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/44d3d644-fde8-41d1-bd09-fdbdfbb9e48a)
+
+The code was then written to greet the user upon entering the username
+
+The script was run on the terminal and it asked the user for name entry as intended. After the user put in the name, a greeting message was displayed as designed
+
+![Shell script that prompt user entry and outputs greeting](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/7565c392-b624-404d-b941-5511a25e8165)
+
