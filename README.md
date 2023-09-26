@@ -110,7 +110,7 @@ The script described above is shown below.
 
 Once the script was finished, the file was made executable using the +x command 
 
-The file was run on the CLI and the follow result showed that the script ran properly 
+The file was run on the terminal and the follow result showed that the script ran properly 
 
 ![Working directory manipulation ans navigation ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/5cf9932b-8272-4cee-b779-bb351fb9e548)
 
