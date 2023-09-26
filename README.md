@@ -99,3 +99,20 @@ The script was run on the terminal and it asked the user for name entry as inten
 
 ![Shell script that prompt user entry and outputs greeting](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/7565c392-b624-404d-b941-5511a25e8165)
 
+6. DIRECTORY MANIPULATION AND NAVIGATION
+
+A new file "navigating-linux-filesystem.sh was created using the touch comand. The file was then opened and a script that displays the present working directory was then written
+next the file was edited to create a new directory and state that a new directory was created. Next, files were made in the directory created and the cd command was used to moved into the new directory
+After that, the files were listed and the the directory was exited. After leaving the directory, the directory and the files were delted using the rm command. A final code to list the directory was then writen. 
+The script described above is shown below. 
+
+![Directory manipulation and navigation ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/1890f956-17bd-431f-8800-d45ae1e11c84)
+
+Once the script was finished, the file was made executable using the +x command 
+
+The file was run on the CLI and the follow result showed that the script ran properly 
+
+![Working directory manipulation ans navigation ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/5cf9932b-8272-4cee-b779-bb351fb9e548)
+
+
+7. 
