@@ -114,4 +114,10 @@ The file was run on the terminal and the follow result showed that the script ra
 
 ![Working directory manipulation ans navigation ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/bb1bc2f5-7142-489c-a5ff-adcba7f4c6ce)
 
-7.  
+7. WORKING WITH NUMBERS
+
+
+8. FILE BACKUP AND TIMESTAMPING
+
+
+
