@@ -132,6 +132,18 @@ The script was run on the terminal and it produced the desired result, which is 
 
 8. WORKING WITH NUMBERS AND CALCULATIONS
 
+A shellscript to perform basic arithmetic operations such as addition, subtraction, divivision, multiplication, remainder, square root and raising a number to a power was written
+The script was also written to display the results of the mathematical operations carried out 
+Below is the script written 
+
+![Calculations ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/de2e4b3a-e524-4589-b441-5f1ffb55b6a9)
+
+
+When the script was run, the script worked well for all the operations except the square root. Further research would be undertaken to understand what I can do to sort that out
+
+![Calculations ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/e99dd887-d822-44fa-963e-a678c03e6a41)
+
+
 9. FILE BACKUP AND TIMESTAMPING
 
 
