@@ -144,7 +144,6 @@ When the script was run, the script worked well for all the operations except th
 ![Calculations ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/e99dd887-d822-44fa-963e-a678c03e6a41)
 
 
-9. FILE BACKUP AND TIMESTAMPING
 
 
 
