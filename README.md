@@ -114,10 +114,25 @@ The file was run on the terminal and the follow result showed that the script ra
 
 ![Working directory manipulation ans navigation ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/bb1bc2f5-7142-489c-a5ff-adcba7f4c6ce)
 
-7. WORKING WITH NUMBERS
+7. FILE OPERATIONS AND SORTING
+
+A new shellscript that creates 3 files and the displays the created files was creates 
+The script was also written to sort the files in alphabetic order, then display the sorted files 
+After displaying the sorted files, the script was written to delete the original files and rename the sorted file, after which it displays the contents of the final file
+The script is shown below
+
+![Directory manipulation and navigation ss](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/aa6e75b9-5914-4701-b69e-0f5eed2b49c0)
+
+The script was run on the terminal and it produced the desired result, which is shown in the images below
+
+![File operation and sorting result1](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/f96ff5b7-2c7e-4240-bf9d-fc406f17acf1)
+
+![File operation and sorting result2](https://github.com/oghare01/Shell-scripting_Project/assets/141191975/90bb4221-d95e-4bb3-a796-d6d450a530ae)
 
 
-8. FILE BACKUP AND TIMESTAMPING
+8. WORKING WITH NUMBERS AND CALCULATIONS
+
+9. FILE BACKUP AND TIMESTAMPING
 
 
 
